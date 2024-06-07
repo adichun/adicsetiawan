@@ -13,7 +13,11 @@ const Navbar = () => {
         <nav className="navbar navbar-expand-lg navbar-white bg-white">
           <div className="container-fluid">
             <h4>
+<<<<<<< HEAD
               <label className="text-orange">ADI</label>
+=======
+              <label className="text-orange">ADIC</label>
+>>>>>>> 4c697e6bbf5c766e1c6ad3d4d2ee746e1c7494f5
               <label style={{ color: "#FFBB64" }}>SETIAWAN</label>
             </h4>
             <button
