@@ -1,9 +1,5 @@
 import Image from "next/image";
-<<<<<<< HEAD
-import imgTele from "../../../public/avatar.jpg";
-=======
 import imgTele from "../../../public/avatar.jpeg";
->>>>>>> 4c697e6bbf5c766e1c6ad3d4d2ee746e1c7494f5
 const About = () => {
   return (
     <main>
@@ -20,11 +16,7 @@ const About = () => {
             <div className="pl-md-4 col-md-9">
               <h6 className="title">Adi C Setiawan</h6>
               <p className="subtitle">
-<<<<<<< HEAD
-                Application Engineer | Enthusiast Technology
-=======
                 Fullstack Engineer | Enthusiast Technology
->>>>>>> 4c697e6bbf5c766e1c6ad3d4d2ee746e1c7494f5
               </p>
               <p>
                 Hello Everyone, Im AdiChan, a programmer passionate about
@@ -32,11 +24,7 @@ const About = () => {
                 spent several years in the industry, honing my skills in
                 software development and system design. My experience is
                 approximately 7 years and covers a wide range of projects, from
-<<<<<<< HEAD
-                web application development to web-based, desktop and mobile
-=======
                 web application development to Web-Based, IOT, Desktop and Mobile
->>>>>>> 4c697e6bbf5c766e1c6ad3d4d2ee746e1c7494f5
                 software development. I am particularly interested in emerging
                 technologies such as artificial intelligence, cloud computing,
                 and distributed software development.

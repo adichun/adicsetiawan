@@ -11,11 +11,7 @@ import {
   GithubFilled,
 } from "@ant-design/icons";
 
-<<<<<<< HEAD
 const iconSize = { fontSize: "30px", marginTop: "2px" };
-=======
-const iconSize = { fontSize: "30px", marginTop: "2px"};
->>>>>>> 4c697e6bbf5c766e1c6ad3d4d2ee746e1c7494f5
 
 export default function Home() {
   return (

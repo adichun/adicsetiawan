@@ -2,10 +2,7 @@ import {
   DesktopOutlined,
   MobileOutlined,
   ConsoleSqlOutlined,
-<<<<<<< HEAD
-=======
   DashboardFilled,
->>>>>>> 4c697e6bbf5c766e1c6ad3d4d2ee746e1c7494f5
 } from "@ant-design/icons";
 
 const iconSize = { fontSize: "40px" };
@@ -47,14 +44,8 @@ const Services = () => {
             <div className="col-sm-6 col-md-3 mb-4">
               <div className="custom-card card border">
                 <div className="card-body">
-<<<<<<< HEAD
-                  <DesktopOutlined style={iconSize} />
-                  <h5>Web Design</h5>
-=======
-                {/* <DashboardFilled /> */}
                   <DashboardFilled style={iconSize} />
                   <h5>Dashboard IOT</h5>
->>>>>>> 4c697e6bbf5c766e1c6ad3d4d2ee746e1c7494f5
                 </div>
               </div>
             </div>
