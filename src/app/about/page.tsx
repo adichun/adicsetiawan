@@ -16,7 +16,7 @@ const About = () => {
             <div className="pl-md-4 col-md-9">
               <h6 className="title">Adi C Setiawan</h6>
               <p className="subtitle">
-                Fullstack Engineer | Enthusiast Technology
+                Fullstack Engineer | Technology Enthusiast
               </p>
               <p>
                 Hello Everyone, Im AdiChan, a programmer passionate about
