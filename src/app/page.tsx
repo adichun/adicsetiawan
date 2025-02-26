@@ -4,6 +4,7 @@ import imgTele from "../../public/img-tele.png";
 import About from "./about/page";
 import Services from "./services/page";
 import Hire from "./hire/page";
+import Portfolio from "./portofolio/page";
 import {
   InstagramFilled,
   FacebookFilled,
@@ -89,7 +90,9 @@ export default function Home() {
 
       <About />
       <Services />
+      <Portfolio />
       <Hire />
+      
     </main>
   );
 }
